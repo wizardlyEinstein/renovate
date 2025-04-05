@@ -34,6 +34,7 @@ spec:
             - wizardlyEinstein/home
             - wizardlyEinstein/bluesky
             - wizardlyEinstein/unifi
+            - wizardlyEinstein/renovate
             env:
             - name: LOG_LEVEL 
               value: debug 
