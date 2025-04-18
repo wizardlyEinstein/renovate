@@ -37,6 +37,7 @@ spec:
             - wizardlyEinstein/renovate
             - wizardlyEinstein/ollama
             - wizardlyEinstein/open-webui
+            - wizardlyEinstein/argocd
             env:
             - name: LOG_LEVEL 
               value: debug 
