@@ -12,7 +12,7 @@ metadata:
   name: renovate 
   namespace: renovate
 spec:
-  schedule: "0 5 * * 6"
+  schedule: "0 5 * * *"
   timeZone: America/Chicago
   jobTemplate:
     spec:
