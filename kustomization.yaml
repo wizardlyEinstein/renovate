@@ -4,7 +4,7 @@ namespace: renovate
 
 images:
 - name: renovate/renovate 
-  newTag: 43.8.2 
+  newTag: 43.11.0 
 
 resources:
 - renovate.yaml
