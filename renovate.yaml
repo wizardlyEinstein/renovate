@@ -31,7 +31,6 @@ spec:
             - wizardlyEinstein/cert-manager
             - wizardlyEinstein/vault
             - wizardlyEinstein/plex
-            - wizardlyEinstein/home
             - wizardlyEinstein/bluesky
             - wizardlyEinstein/unifi
             - wizardlyEinstein/renovate
